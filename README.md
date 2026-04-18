@@ -9,6 +9,9 @@ The samsung gear produces images and dual spherical video :
 
 This script converts it to equirectangular as in the second image, which is suitable for viewing on youtube etc.
 
+Usage
+-----
+Script will convert all files in the folder ending in .mp4 and add a converted copy called stretched.mp4
 
 Requirements:
 -------------
