@@ -15,8 +15,8 @@ Usage
 
 stretch.bat
 
-converts all files in the current folder ending in .mp4 
-a converted copy is created called filename-stretched.mp4
+converts all files in the current folder ending in .mp4\
+a converted copy is created called filename-stretched.mp4\
 files are also tagged ready for 360 viewing/youtube upload
 
 join-stretched.bat
