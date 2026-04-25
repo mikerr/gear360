@@ -19,6 +19,8 @@ converts all files in the current folder ending in .mp4\
 a converted copy is created called filename-stretched.mp4\
 files are also tagged ready for 360 viewing/youtube upload
 
+conversion runs at 2x realtime on my gtx3060
+
 join-stretched.bat
 
 joins all files ending in *stretched.mp4 into one file
