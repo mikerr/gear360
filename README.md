@@ -11,8 +11,19 @@ This script converts it to equirectangular as in the second image, which is suit
 
 Usage
 -----
-Script will convert all files in the folder ending in .mp4 and add a converted copy called stretched.mp4
 
+
+stretch.bat
+
+converts all files in the current folder ending in .mp4 
+a converted copy is created called filename-stretched.mp4
+files are also tagged ready for 360 viewing/youtube upload
+
+join-stretched.bat
+
+joins all files ending in *stretched.mp4 into one file
+
+              
 Requirements:
 -------------
 ffmpeg.exe
