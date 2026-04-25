@@ -5,9 +5,14 @@ Scripts to convert spherical video to equirectangular 360 and tag for youtube
 
 The samsung gear produces images and dual spherical video :
 
-![](/img/s_360_0312.jpg)  ![](/img/s_sam_0312.jpg)
+![](/img/s_360_0312.jpg) 
 
-This script converts it to equirectangular as in the second image, which is suitable for viewing on youtube etc.
+This script converts it to equirectangular as below, 
+
+![](/img/s_sam_0312.jpg)
+
+and "tags" it as 360, so it's suitable for viewing via VLC, youtube etc.
+
 
 Usage
 -----
