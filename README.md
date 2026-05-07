@@ -16,19 +16,23 @@ and "tags" it as 360, so it's suitable for viewing via VLC, youtube etc.
 
 Usage
 -----
+batch360.bat
+<pre>
+Joins all files named 360_*.mp4 in a folder together into one file
+and converts it to equirectangular and 360 tagged ready for youtube upload
+</pre>
 
 
 stretch.bat
-
-converts all files in the current folder ending in .mp4\
-a converted copy is created called filename-stretched.mp4\
+<pre>
+Converts all files in the current folder ending in .mp4
+a converted copy of each file is created called filename-stretched.mp4
 files are also tagged ready for 360 viewing/youtube upload
 
 conversion runs at 2x realtime on my gtx3060
-
+</pre>
 join-stretched.bat
-
-joins all files ending in *stretched.mp4 into one file
+<pre>joins all files ending in *stretched.mp4 into one file</pre>
 
               
 Requirements:
