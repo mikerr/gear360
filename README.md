@@ -23,7 +23,7 @@ and converts it to equirectangular and 360 tagged ready for youtube upload
 </pre>
 
 
-stretch.bat, strech.sh
+stretch.bat, stretch.sh
 <pre>
 Converts all files in the current folder ending in .mp4
 a converted copy of each file is created called filename-stretched.mp4
@@ -33,7 +33,7 @@ files are also tagged ready for 360 viewing/youtube upload
 <pre>
   
 conversion times: 
-  2x realtime on i7 / gtx3060
+  2x   realtime (50fps) on intel i7 / gtx3060
   0.1x realtime (2fps) on Pi 5 
 </pre>
 
