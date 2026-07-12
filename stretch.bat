@@ -1,7 +1,3 @@
-# convert a folder of .MP4
-# from dual fisheye to eqirectangular
-# and tag as 360
-
 @echo off
 for %%f in (*.mp4) do (  
     ffmpeg -y -i %%f -vf v360=dfisheye:e:yaw=0:ih_fov=192:iv_fov=192 -c:v h264_nvenc -b:v 40000k -bufsize 5000k -c:a copy out.mp4
