@@ -34,6 +34,7 @@ files are also tagged ready for 360 viewing/youtube upload
   
 conversion times: 
   2x   realtime (50fps) on intel i7 / gtx3060
+  0.8x realtime (10fps) cpu only
   0.1x realtime (2fps) on Pi 5 
 </pre>
 
