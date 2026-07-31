@@ -45,6 +45,6 @@ join-stretched.bat
               
 Requirements:
 -------------
-ffmpeg.exe
+windows: ffmpeg.exe, exiftool.exe (see releases)
 
-exiftool.exe
+linux: ffmpeg and exiftool 
